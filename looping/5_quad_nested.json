@@ -1,0 +1,144 @@
+{
+  "offerings": [
+    {
+      "bundles": [
+        {
+          "productTypes": [
+            {
+              "parts" : [
+                {
+                  "types": [
+                    1
+                  ]
+                },
+                {
+                  "types": [
+                    2
+                  ]
+                }
+              ]
+            },
+            {
+              "parts" : [
+                {
+                  "types": [
+                    3, 4
+                  ]
+                },
+                {
+                  "types": [
+                    5
+                  ]
+                }
+              ]
+            },
+            {
+              "parts" : [
+                {
+                  "types": [
+                    6, 7
+                  ]
+                },
+                {
+                  "types": [
+                    8
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bundles": [
+        {
+          "productTypes": [
+            {
+              "parts" : [
+                {
+                  "types": [
+                    9, 10
+                  ]
+                },
+                {
+                  "types": [
+                    11
+                  ]
+                }
+              ]
+            },
+            {
+              "parts" : [
+                {
+                  "types": [
+                    12
+                  ]
+                }
+              ]
+            },
+            {
+              "parts" : [
+                {
+                  "types": [
+                    13
+                  ]
+                },
+                {
+                  "types": [
+                    14
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bundles": [
+        {
+          "productTypes": [
+            {
+              "parts" : [
+                {
+                  "types": [
+                    14, 15, 16, 17
+                  ]
+                },
+                {
+                  "types": [
+                    18
+                  ]
+                }
+              ]
+            },
+            {
+              "parts" : [
+                {
+                  "types": [
+                    19, 20
+                  ]
+                },
+                {
+                  "types": [
+                    21
+                  ]
+                }
+              ]
+            },
+            {
+              "parts" : [
+                {
+                  "types": [
+                    22
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

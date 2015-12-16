@@ -1,0 +1,73 @@
+{
+  "offerings": [
+    {
+      "bundles": [
+        {
+          "productTypes": [
+            {
+              "parts" : [
+                1, 2
+              ]
+            },
+            {
+              "parts" : [
+                3
+              ]
+            },
+            {
+              "parts" : [
+                4, 5, 6, 7
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bundles": [
+        {
+          "productTypes": [
+            {
+              "parts" : [
+                8, 9
+              ]
+            },
+            {
+              "parts" : [
+                10, 11, 12, 13
+              ]
+            },
+            {
+              "parts" : [
+                14
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bundles": [
+        {
+          "productTypes": [
+            {
+              "parts" : [
+                8, 9
+              ]
+            },
+            {
+              "parts" : [
+                10, 11, 12, 13
+              ]
+            },
+            {
+              "parts" : [
+                14
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
